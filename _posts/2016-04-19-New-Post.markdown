@@ -58,7 +58,7 @@ category:  project1
 
 Hold your pointer clicked over the image to expand the view.
 
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+![Description](http://spidy88.github.io/blog/img/Logo_Fairy_Tail_right.png)
 
 ## Code
 

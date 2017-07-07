@@ -8,10 +8,10 @@ subtitle:    	Some Short Description of Presentation
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
-horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+horizontal:	</section></section><section markdown="1" data-background="http://spidy88.github.io/blog/img/slidebackground.png"><section markdown="1">
 vertical:		</section><section markdown="1">
 ---
-<section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+<section markdown="1" data-background="http://spidy88.github.io/blog/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
 <hr>
@@ -96,7 +96,7 @@ $$ A = \pi r^2 $$
 
 Alt-Click to zoom.
 
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+![Description](http://spidy88.github.io/blog/img/Logo_Fairy_Tail_right.png)
 
 {{ page.horizontal }}
 
