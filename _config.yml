@@ -1,6 +1,6 @@
 # Site settings
 title: Ctrl - Alt - WTF
-description: "A blog detailing my software adventures"
+description: "A detailed account of my software adventures"
 url: "https://spidy88.github.io"
 
 
@@ -17,7 +17,7 @@ github_username:  Spidy88
 project_repository: blog
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
-altmetric: true
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
