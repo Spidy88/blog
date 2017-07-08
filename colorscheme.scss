@@ -8,6 +8,12 @@ $header-color: {{ site.headercolor }};
   color: $header-color;
 }
 
+.intro-header .site-heading img {
+  border: 4px solid white;
+  border-radius: 100%;
+  margin-bottom: 12px;
+}
+
 hr.small {
   border-color: $header-color;
 }

@@ -10,11 +10,11 @@ layout: default
                 <div class="site-heading" style="padding: 75px 0">
 					{% if page.url == '/' %}
 					{% if site.logo %}
-					<img src= "{{ site.logo }}" style="height: 150px">
+					<img src= "{{ site.logo }}" style="height: 150px; border: ">
 					{% endif %}	
 					{% else %}{% endif %}	
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <hr class="small">
+                    <hr>
                     <span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
                 </div>
             </div>
